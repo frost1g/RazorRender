@@ -1,0 +1,7 @@
+/.vs
+/src/obj
+/src/bin
+/samples/WebApplication/appsettings.Development.json
+/samples/WebApplication/*.user
+/samples/WebApplication/bin
+/samples/WebApplication/obj
