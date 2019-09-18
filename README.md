@@ -1,3 +1,3 @@
 # RazorRender
 
-Use Razor to build templates from Files
+Use Razor to build templates from Files.
